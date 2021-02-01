@@ -1,3 +1,3 @@
-# 2021-02-01 ~
+# Firebase Practice
 
 This repository is for practicing the firebase
