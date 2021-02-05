@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useHistory } from 'react-router-dom'
-import { authService } from 'fbase';
+import { authService } from '../fbase';
 
 const Profile = ({ userObj, refreshUser }) => {
     const [newDisplayName, setNewDisplayName] = useState(userObj.displayName);

@@ -1,6 +1,6 @@
 import React from 'react';
-import { firebaseInstance, authService } from 'fbase';
-import AuthForm from 'components/AuthForm';
+import { firebaseInstance, authService } from '../fbase';
+import AuthForm from '../components/AuthForm';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTwitter, faGoogle, faGithub } from "@fortawesome/free-brands-svg-icons";
 
