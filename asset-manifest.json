@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/firebase-practice/nwitter/static/css/main.b44cdd49.chunk.css",
+    "main.js": "/firebase-practice/nwitter/static/js/main.740a8aac.chunk.js",
+    "main.js.map": "/firebase-practice/nwitter/static/js/main.740a8aac.chunk.js.map",
+    "runtime-main.js": "/firebase-practice/nwitter/static/js/runtime-main.45700296.js",
+    "runtime-main.js.map": "/firebase-practice/nwitter/static/js/runtime-main.45700296.js.map",
+    "static/js/2.c0401fc2.chunk.js": "/firebase-practice/nwitter/static/js/2.c0401fc2.chunk.js",
+    "static/js/2.c0401fc2.chunk.js.map": "/firebase-practice/nwitter/static/js/2.c0401fc2.chunk.js.map",
+    "index.html": "/firebase-practice/nwitter/index.html",
+    "static/css/main.b44cdd49.chunk.css.map": "/firebase-practice/nwitter/static/css/main.b44cdd49.chunk.css.map",
+    "static/js/2.c0401fc2.chunk.js.LICENSE.txt": "/firebase-practice/nwitter/static/js/2.c0401fc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45700296.js",
+    "static/js/2.c0401fc2.chunk.js",
+    "static/css/main.b44cdd49.chunk.css",
+    "static/js/main.740a8aac.chunk.js"
+  ]
+}
